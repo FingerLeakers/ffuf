@@ -268,3 +268,10 @@ The only dependency of ffuf is Go 1.11. No dependencies outside of Go standard l
 - Client / server architecture to queue jobs and fetch the results later
 - Fuzzing multiple values at the same time
 - Output module to push the results to an HTTP API
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
